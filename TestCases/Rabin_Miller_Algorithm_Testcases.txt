@@ -1,0 +1,58 @@
+Test Case 1:
+Number = 17
+Iteration_Number = 5
+Expected Output = True
+Actual Output = True
+Result = Pass
+
+Test Case 2:
+Number = 15
+Iteration_Number = 5
+Expected Output = False
+Actual Output = False
+Result = Pass
+
+Test Case 3:
+Number = 7919
+Iteration_Number = 10
+Expected Output = True
+Actual Output = True
+Result = Pass
+
+Test Case 4:
+Number = 100001
+Iteration_Number = 10
+Expected Output = False
+Actual Output = False
+Result = Pass
+
+Test Case 5:
+Number = 2147483647
+Iteration_Number = 20
+Expected Output = True
+Actual Output = True
+Result = Pass
+
+Test Case 6:
+Number = 9999999967
+Iteration_Number = 20
+Expected Output = False
+Actual Output = False
+Result = Pass
+
+Test Case 7:
+Number = 23
+Iteration_Number = 0
+Expected Output = True
+Actual Output = True
+Result = Pass
+
+Test Case 8:
+Number = 221
+Iteration_Number = 1
+Expected Output = False
+Actual Output = False
+Result = Pass
+
+
+

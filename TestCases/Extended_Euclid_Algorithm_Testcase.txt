@@ -1,0 +1,27 @@
+Test Case 1:
+Number 1 = 7
+Number 2 = 5
+Expected Output = (X = -2, Y = 3, GCD = 1)
+Actual Output = (X = -2, Y = 3, GCD = 1)
+Result = Pass
+
+Test Case 2:
+Number 1 = 35
+Number 2 = 15
+Expected Output = (X = 1, Y = -2, GCD = 5)
+Actual Output = (X = 1, Y = -2, GCD = 5)
+Result = Pass
+
+Test Case 3:
+Number 1 = 11
+Number 2 = 9
+Expected Output = (X = -4, Y = 5, GCD = 1)
+Actual Output = (X = -4, Y = 5, GCD = 1)
+Result = Pass
+
+Test Case 4:
+Number 1 = 30
+Number 2 = 21
+Expected Output = (X = -2, Y = 3, GCD = 3)
+Actual Output = (X = -2, Y = 3, GCD = 3)
+Result = Pass

@@ -1,0 +1,47 @@
+Test Case 1:
+Number = 10
+Expected Output = 4
+Actual Output = 4
+Result = Pass
+
+Test Case 2:
+Number = 20
+Expected Output = 8
+Actual Output = 8
+Result = Pass
+
+Test Case 3:
+Number = 2
+Expected Output = 1
+Actual Output = 1
+Result = Pass
+
+Test Case 4:
+Number = 0
+Expected Output = 0
+Actual Output = 0
+Result = Pass
+
+Test Case 5:
+Number = 50
+Expected Output = 15
+Actual Output = 15
+Result = Pass
+
+Test Case 6:
+Number = 100
+Expected Output = 25
+Actual Output = 25
+Result = Pass
+
+Test Case 7:
+Number = 1000
+Expected Output = 168
+Actual Output = 168
+Result = Pass
+
+Test Case 8:
+Number = 10000
+Expected Output = 1229
+Actual Output = 1229
+Result = Pass
